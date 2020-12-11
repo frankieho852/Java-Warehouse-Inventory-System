@@ -1,0 +1,1822 @@
+<data>
+  <columns>
+    <Brand index="5">Brand</Brand>
+    <BuyCurrency index="13">BuyCurrency</BuyCurrency>
+    <BuyPrice index="12">BuyPrice</BuyPrice>
+    <Category index="3">Category</Category>
+    <Id index="1">Id</Id>
+    <LeadTime index="16">LeadTime</LeadTime>
+    <MinOrderQuantity index="7">MinOrderQuantity</MinOrderQuantity>
+    <Name index="2">Name</Name>
+    <SellCurrency index="11">SellCurrency</SellCurrency>
+    <SellPrice index="10">SellPrice</SellPrice>
+    <StockOnHand index="14">StockOnHand</StockOnHand>
+    <StockOnOrder index="15">StockOnOrder</StockOnOrder>
+    <SubCategory index="4">SubCategory</SubCategory>
+    <Supplier index="6">Supplier</Supplier>
+    <TargetBatchVolume index="8">TargetBatchVolume</TargetBatchVolume>
+    <Volume index="9">Volume</Volume>
+  </columns>
+  <records>
+    <record index="1">
+      <Brand>StarTAC</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>27.67</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16342939</Id>
+      <LeadTime>15</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>StarTAC Series</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>65.99</SellPrice>
+      <StockOnHand>15</StockOnHand>
+      <StockOnOrder>50</StockOnOrder>
+      <SubCategory>Telephones and Communication</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.8</Volume>
+    </record>
+    <record index="2">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>29.8</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16346727</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1984</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>6.48</SellPrice>
+      <StockOnHand>34</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.47</Volume>
+    </record>
+    <record index="3">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>219.54</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16346853</Id>
+      <LeadTime>10</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1885</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>48.04</SellPrice>
+      <StockOnHand>16</StockOnHand>
+      <StockOnOrder>40</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.55</Volume>
+    </record>
+    <record index="4">
+      <Brand>Elite</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>34.12</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16350870</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Elite 5 inch Scissors</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>8.45</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Scissors, Rulers and Trimmers</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.85</Volume>
+    </record>
+    <record index="5">
+      <Brand>Wilson</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>31.3</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16359070</Id>
+      <LeadTime>33</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>Wilson Jones DublLock D-Ring Binders</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>6.75</SellPrice>
+      <StockOnHand>30</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="6">
+      <Brand>MicroTAC</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>261.48</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16376266</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>MicroTAC 650</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>65.99</SellPrice>
+      <StockOnHand>5</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Telephones and Communication</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.55</Volume>
+    </record>
+    <record index="7">
+      <Brand>V3682</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>496.04</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16379125</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>V3682</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>125.99</SellPrice>
+      <StockOnHand>10</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Telephones and Communication</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.41</Volume>
+    </record>
+    <record index="8">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>218.85</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16395266</Id>
+      <LeadTime>14</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1938</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>47.9</SellPrice>
+      <StockOnHand>25</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.84</Volume>
+    </record>
+    <record index="9">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>25.79</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16397221</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Staples Standard Envelopes</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>5.68</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>75</StockOnOrder>
+      <SubCategory>Envelopes</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="10">
+      <Brand>StarTAC</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>48.64</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16402632</Id>
+      <LeadTime>18</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>StarTAC 7797</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>115.99</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Telephones and Communication</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.97</Volume>
+    </record>
+    <record index="11">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>188.61</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16405635</Id>
+      <LeadTime>20</LeadTime>
+      <MinOrderQuantity>30</MinOrderQuantity>
+      <Name>Avery Trapezoid Ring Binder, 3 Capacity, Black, 1040 sheets</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>40.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>30</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.13</Volume>
+    </record>
+    <record index="12">
+      <Brand>Anderson</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>54.15</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16406897</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Anderson Hickey Conga Table Tops &amp; Accessories</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>15.23</SellPrice>
+      <StockOnHand>14</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Tables</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.84</Volume>
+    </record>
+    <record index="13">
+      <Brand>SAFCO</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>2187.56</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16411763</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>349.45</SellPrice>
+      <StockOnHand>23</StockOnHand>
+      <StockOnOrder>4</StockOnOrder>
+      <SubCategory>Tables</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.55</Volume>
+    </record>
+    <record index="14">
+      <Brand>Canon</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>89.04</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16413246</Id>
+      <LeadTime>24</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Canon PC-428 Personal Copier</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>199.99</SellPrice>
+      <StockOnHand>11</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Copiers and Fax</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.9</Volume>
+    </record>
+    <record index="15">
+      <Brand>It's Hot</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>33.12</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16421400</Id>
+      <LeadTime>33</LeadTime>
+      <MinOrderQuantity>20</MinOrderQuantity>
+      <Name>It's Hot Message Books with Stickers, 2 3/4 x 5</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>7.4</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>60</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="16">
+      <Brand>Electrix</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>36.68</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16422303</Id>
+      <LeadTime>20</LeadTime>
+      <MinOrderQuantity>30</MinOrderQuantity>
+      <Name>Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>13.4</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Office Furnishings</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="17">
+      <Brand>Safco</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>444.33</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16425918</Id>
+      <LeadTime>18</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>70.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>25</StockOnOrder>
+      <SubCategory>Bookcases</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.07</Volume>
+    </record>
+    <record index="18">
+      <Brand>Catalog</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>300.86</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16429400</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>50</MinOrderQuantity>
+      <Name>Catalog Binders with Expanding Posts</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>67.28</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>150</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="19">
+      <Brand>Belkin</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>42.88</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16431437</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Belkin 6 Outlet Metallic Surge Strip</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>10.89</SellPrice>
+      <StockOnHand>35</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Appliances</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.99</Volume>
+    </record>
+    <record index="20">
+      <Brand>Iris</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>71.49</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16437390</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Iris 3-Drawer Stacking Bin, Black</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>20.89</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>135</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="21">
+      <Brand>GBC</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>336.64</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16442667</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>GBC Therma-A-Bind 250T Electric Binding System</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>122.99</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>50</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.1</Volume>
+    </record>
+    <record index="22">
+      <Brand>OIC</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>3.11</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16446522</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>20</MinOrderQuantity>
+      <Name>OIC Thumb-Tacks</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>1.14</SellPrice>
+      <StockOnHand>9</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Rubber Bands</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="23">
+      <Brand>Imation</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>146.67</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16468556</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Imation Neon 80 Minute CD-R Spindle, 50/Pack</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>33.98</SellPrice>
+      <StockOnHand>6</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.72</Volume>
+    </record>
+    <record index="24">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>160.76</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16471902</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>Staples Colored Bar Computer Paper</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>35.44</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>20</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.08</Volume>
+    </record>
+    <record index="25">
+      <Brand>Rush</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>585.87</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16476406</Id>
+      <LeadTime>24</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Rush Hierlooms Collection Rich Wood Bookcases</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>160.98</SellPrice>
+      <StockOnHand>13</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Bookcases</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="26">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>257.66</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16487421</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1882</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>55.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.62</Volume>
+    </record>
+    <record index="27">
+      <Brand>Wilson</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>12.77</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16489178</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>35</MinOrderQuantity>
+      <Name>Wilson Jones Suede Grain Vinyl Binders</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.78</SellPrice>
+      <StockOnHand>2</StockOnHand>
+      <StockOnOrder>70</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.09</Volume>
+    </record>
+    <record index="28">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>160.76</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16491556</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1932</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>35.44</SellPrice>
+      <StockOnHand>10</StockOnHand>
+      <StockOnOrder>7</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.58</Volume>
+    </record>
+    <record index="29">
+      <Brand>Sharp</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>1378.65</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16492459</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Sharp AL-1530CS Digital Copier</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>499.99</SellPrice>
+      <StockOnHand>26</StockOnHand>
+      <StockOnOrder>4</StockOnOrder>
+      <SubCategory>Copiers and Fax</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.58</Volume>
+    </record>
+    <record index="30">
+      <Brand>Newell</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>10.96</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16493680</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>15</MinOrderQuantity>
+      <Name>Newell 339</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.78</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>6</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.07</Volume>
+    </record>
+    <record index="31">
+      <Brand>EcoTones</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>18.28</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16497025</Id>
+      <LeadTime>24</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>EcoTones Memo Sheets</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>25</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="32">
+      <Brand>Panasonic</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>2037.38</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16505852</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Panasonic KX-P3626 Dot Matrix Printer</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>517.48</SellPrice>
+      <StockOnHand>34</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Office Machines</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.74</Volume>
+    </record>
+    <record index="33">
+      <Brand>Newell</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>10.96</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16511075</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Newell 318</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.78</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>45</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="34">
+      <Brand>U.S.</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>417.29</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16513635</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>U.S. Robotics 56K Internet Call Modem</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>99.99</SellPrice>
+      <StockOnHand>25</StockOnHand>
+      <StockOnOrder>16</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.4</Volume>
+    </record>
+    <record index="35">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>47.26</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16526354</Id>
+      <LeadTime>23</LeadTime>
+      <MinOrderQuantity>35</MinOrderQuantity>
+      <Name>Avery 503</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>10.35</SellPrice>
+      <StockOnHand>25</StockOnHand>
+      <StockOnOrder>100</StockOnOrder>
+      <SubCategory>Labels</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="36">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>22.41</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16526889</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>35</MinOrderQuantity>
+      <Name>Avery White Multi-Purpose Labels</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4.98</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>20</StockOnOrder>
+      <SubCategory>Labels</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.09</Volume>
+    </record>
+    <record index="37">
+      <Brand>Chromcraft</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>1916.19</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16528397</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Chromcraft Bull-Nose Wood 48 x 96inch Rectangular Conference Tables</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>550.98</SellPrice>
+      <StockOnHand>21</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Tables</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.36</Volume>
+    </record>
+    <record index="38">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>11.77</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16529662</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>50</MinOrderQuantity>
+      <Name>Avery 479</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.61</SellPrice>
+      <StockOnHand>7</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Labels</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="39">
+      <Brand>Fellowes</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>233.93</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16542152</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Fellowes Recycled Storage Drawers</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>111.03</SellPrice>
+      <StockOnHand>6</StockOnHand>
+      <StockOnOrder>30</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.08</Volume>
+    </record>
+    <record index="40">
+      <Brand>AT&amp;T</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>6.97</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16554562</Id>
+      <LeadTime>9</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>AT&amp;T Black Trimline Phone, Model 210</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>15.99</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Office Machines</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.51</Volume>
+    </record>
+    <record index="41">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>188.68</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16555988</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1893</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>40.99</SellPrice>
+      <StockOnHand>10</StockOnHand>
+      <StockOnOrder>10</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.97</Volume>
+    </record>
+    <record index="42">
+      <Brand>Master</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>33.49</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16559179</Id>
+      <LeadTime>33</LeadTime>
+      <MinOrderQuantity>50</MinOrderQuantity>
+      <Name>Master Giant Foot Doorstop, Safety Yellow</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>7.59</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>50</StockOnOrder>
+      <SubCategory>Office Furnishings</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.14</Volume>
+    </record>
+    <record index="43">
+      <Brand>Acco</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>17.53</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16564116</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Acco Pressboard Covers with Storage Hooks, 14 7/8 x 11 Dark Blue</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.81</SellPrice>
+      <StockOnHand>6</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.13</Volume>
+    </record>
+    <record index="44">
+      <Brand>Wilson</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>23.85</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16566395</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>20</MinOrderQuantity>
+      <Name>Wilson Jones Impact Binders</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>5.18</SellPrice>
+      <StockOnHand>4</StockOnHand>
+      <StockOnOrder>40</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="45">
+      <Brand>DAX</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>23.29</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16570341</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>DAX Cubicle Frames - 8x10</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>5.77</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>20</StockOnOrder>
+      <SubCategory>Office Furnishings</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.14</Volume>
+    </record>
+    <record index="46">
+      <Brand>Keytronic</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>29.15</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16579736</Id>
+      <LeadTime>20</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Keytronic French Keyboard</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>73.98</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>56</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.32</Volume>
+    </record>
+    <record index="47">
+      <Brand>O'Sullivan</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>485.15</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16582537</Id>
+      <LeadTime>14</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>O'Sullivan Elevations Bookcase, Cherry Finish</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>130.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>90</StockOnOrder>
+      <SubCategory>Bookcases</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.07</Volume>
+    </record>
+    <record index="48">
+      <Brand>Hon</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>422.17</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16583331</Id>
+      <LeadTime>23</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Hon Comfortask Task/Swivel Chairs</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>113.98</SellPrice>
+      <StockOnHand>16</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Chairs &amp; Chairmats</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.83</Volume>
+    </record>
+    <record index="49">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>226.93</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16595312</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1916</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>48.94</SellPrice>
+      <StockOnHand>27</StockOnHand>
+      <StockOnOrder>4</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.59</Volume>
+    </record>
+    <record index="50">
+      <Brand>Tennsco</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>167.33</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16596803</Id>
+      <LeadTime>20</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Tennsco Industrial Shelving</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>48.91</SellPrice>
+      <StockOnHand>27</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.06</Volume>
+    </record>
+    <record index="51">
+      <Brand>Eldon</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>13.58</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16602346</Id>
+      <LeadTime>23</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>Eldon Spacemaker Box, Quick-Snap Lid, Clear</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.34</SellPrice>
+      <StockOnHand>33</StockOnHand>
+      <StockOnOrder>15</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.06</Volume>
+    </record>
+    <record index="52">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>29.8</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16607123</Id>
+      <LeadTime>23</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1993</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>6.48</SellPrice>
+      <StockOnHand>28</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.58</Volume>
+    </record>
+    <record index="53">
+      <Brand>Fellowes</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>199.91</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16610094</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>50</MinOrderQuantity>
+      <Name>Fellowes Stor/Drawer Steel Plus Storage Drawers</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>95.43</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>100</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="54">
+      <Brand>Boston</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>174.28</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16612313</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>50</MinOrderQuantity>
+      <Name>Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>43.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>150</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="55">
+      <Brand>Tennsco</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>73.81</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16615933</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Tennsco Lockers, Gray</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>20.98</SellPrice>
+      <StockOnHand>25</StockOnHand>
+      <StockOnOrder>20</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.07</Volume>
+    </record>
+    <record index="56">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>29.61</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16616486</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 227</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>6.48</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.43</Volume>
+    </record>
+    <record index="57">
+      <Brand>Logitech</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>451.53</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16616835</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Logitech Cordless Elite Duo</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>100.98</SellPrice>
+      <StockOnHand>3</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.6</Volume>
+    </record>
+    <record index="58">
+      <Brand>Fellowes</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>305.33</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16618047</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Fellowes Strictly Business Drawer File, Letter/Legal Size</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>140.85</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>25</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="59">
+      <Brand>Multimedia</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>76.19</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16619294</Id>
+      <LeadTime>23</LeadTime>
+      <MinOrderQuantity>15</MinOrderQuantity>
+      <Name>Multimedia Mailers</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>162.93</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>45</StockOnOrder>
+      <SubCategory>Envelopes</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.06</Volume>
+    </record>
+    <record index="60">
+      <Brand>TDK</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>60.85</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16627009</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>TDK 4.7GB DVD+RW</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>14.48</SellPrice>
+      <StockOnHand>26</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.35</Volume>
+    </record>
+    <record index="61">
+      <Brand>Jet-Pak</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>160.51</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16631928</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>35</MinOrderQuantity>
+      <Name>Jet-Pak Recycled Peel 'N' Seal Padded Mailers</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>35.89</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>35</StockOnOrder>
+      <SubCategory>Envelopes</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="62">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>14.09</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16632607</Id>
+      <LeadTime>14</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Avery 481</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.08</SellPrice>
+      <StockOnHand>8</StockOnHand>
+      <StockOnOrder>19</StockOnOrder>
+      <SubCategory>Labels</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.09</Volume>
+    </record>
+    <record index="63">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>102.85</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16635838</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1964</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>22.84</SellPrice>
+      <StockOnHand>25</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.4</Volume>
+    </record>
+    <record index="64">
+      <Brand>StarTAC</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>52.83</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16645340</Id>
+      <LeadTime>14</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>StarTAC ST7868</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>125.99</SellPrice>
+      <StockOnHand>18</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Telephones and Communication</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.86</Volume>
+    </record>
+    <record index="65">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>23.6</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16648952</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1981</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>5.28</SellPrice>
+      <StockOnHand>32</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.43</Volume>
+    </record>
+    <record index="66">
+      <Brand>Acme</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>32.87</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16649465</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Acme Elite Stainless Steel Scissors</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>8.34</SellPrice>
+      <StockOnHand>12</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Scissors, Rulers and Trimmers</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.86</Volume>
+    </record>
+    <record index="67">
+      <Brand>Acco</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>109.49</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16655117</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Acco Perma 2700 Stacking Storage Drawers</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>29.74</SellPrice>
+      <StockOnHand>20</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Storage &amp; Organization</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.1</Volume>
+    </record>
+    <record index="68">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>90.64</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16667283</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox Blank Computer Paper</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>19.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.4</Volume>
+    </record>
+    <record index="69">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>160.76</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16669513</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1880</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>35.44</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.93</Volume>
+    </record>
+    <record index="70">
+      <Brand>OIC</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>9.86</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16672018</Id>
+      <LeadTime>14</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>OIC Colored Binder Clips, Assorted Sizes</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.58</SellPrice>
+      <StockOnHand>31</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Rubber Bands</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.1</Volume>
+    </record>
+    <record index="71">
+      <Brand>Belkin</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>318.82</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16679540</Id>
+      <LeadTime>15</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>80.98</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Appliances</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.57</Volume>
+    </record>
+    <record index="72">
+      <Brand>Ampad</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>20.47</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16681530</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>Ampad #10 Peel &amp; Seel Holiday Envelopes</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4.48</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>10</StockOnOrder>
+      <SubCategory>Envelopes</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="73">
+      <Brand>Soundgear</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>932.61</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16688388</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Soundgear Copyboard Conference Phone, Optional Battery</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>204.1</SellPrice>
+      <StockOnHand>1</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Office Machines</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.37</Volume>
+    </record>
+    <record index="74">
+      <Brand>Avery</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>16.71</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16698488</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Avery 501</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.69</SellPrice>
+      <StockOnHand>13</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Labels</SubCategory>
+      <Supplier>FHL</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.07</Volume>
+    </record>
+    <record index="75">
+      <Brand>Gyration</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>44.95</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16704002</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Gyration Ultra Cordless Optical Suite</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>100.97</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.77</Volume>
+    </record>
+    <record index="76">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>102.85</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16705243</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1982</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>22.84</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.85</Volume>
+    </record>
+    <record index="77">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>46.82</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16707835</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Staples SlimLine Pencil Sharpener</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>11.97</SellPrice>
+      <StockOnHand>2</StockOnHand>
+      <StockOnOrder>40</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="78">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>138.53</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16709011</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 197</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>30.98</SellPrice>
+      <StockOnHand>5</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.57</Volume>
+    </record>
+    <record index="79">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>23.6</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16711516</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1963</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>5.28</SellPrice>
+      <StockOnHand>27</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.87</Volume>
+    </record>
+    <record index="80">
+      <Brand>Microsoft</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>7.66</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16711687</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Microsoft Internet Keyboard</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>20.97</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.63</Volume>
+    </record>
+    <record index="81">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>52.21</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16717179</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 188</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>11.34</SellPrice>
+      <StockOnHand>31</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.69</Volume>
+    </record>
+    <record index="82">
+      <Brand>Sanford</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>11.64</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16717269</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Sanford Colorific Colored Pencils, 12/Box</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.88</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>80</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="83">
+      <Brand>Prang</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>13.15</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16725319</Id>
+      <LeadTime>33</LeadTime>
+      <MinOrderQuantity>35</MinOrderQuantity>
+      <Name>Prang Colored Pencils</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.94</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>70</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.05</Volume>
+    </record>
+    <record index="84">
+      <Brand>Hewlett-Packard</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>21.38</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16726527</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Hewlett-Packard 4.7GB DVD+R Discs</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>8.5</SellPrice>
+      <StockOnHand>12</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.85</Volume>
+    </record>
+    <record index="85">
+      <Brand>Deflect-O</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>31.74</BuyPrice>
+      <Category>Furniture</Category>
+      <Id>16727222</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Deflect-O Glasstique Clear Desk Accessories</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>7.7</SellPrice>
+      <StockOnHand>24</StockOnHand>
+      <StockOnOrder>1</StockOnOrder>
+      <SubCategory>Office Furnishings</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="86">
+      <Brand>Imation</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>17.34</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16728666</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Imation Primaris 3.5 2HD Unformatted Diskettes, 10/PackImation Primaris 3.5</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4.77</SellPrice>
+      <StockOnHand>19</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.8</Volume>
+    </record>
+    <record index="87">
+      <Brand>Verbatim</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>97.34</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16730738</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Verbatim DVD-R, 3.95GB, SR, Mitsubishi Branded, Jewel</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>22.24</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>3</StockOnOrder>
+      <SubCategory>Computer Peripherals</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.96</Volume>
+    </record>
+    <record index="88">
+      <Brand>Xerox</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>22.91</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16732668</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Xerox 1949</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4.98</SellPrice>
+      <StockOnHand>4</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Drecom</Supplier>
+      <TargetBatchVolume>67.5</TargetBatchVolume>
+      <Volume>0.55</Volume>
+    </record>
+    <record index="89">
+      <Brand>Speediset</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>46.76</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16733285</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Speediset Carbonless Redi-Letter 7 x 8 1/2</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>10.31</SellPrice>
+      <StockOnHand>20</StockOnHand>
+      <StockOnOrder>9</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.12</Volume>
+    </record>
+    <record index="90">
+      <Brand>XtraLife</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>36.37</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16733375</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>5</MinOrderQuantity>
+      <Name>XtraLife ClearVue Slant-D Ring Binders by Cardinal</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>7.84</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>10</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.1</Volume>
+    </record>
+    <record index="91">
+      <Brand>Strathmore</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>30.55</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16733445</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>30</MinOrderQuantity>
+      <Name>Strathmore Photo Mount Cards</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>6.78</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>90</StockOnOrder>
+      <SubCategory>Paper</SubCategory>
+      <Supplier>SuperSupply</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.09</Volume>
+    </record>
+    <record index="92">
+      <Brand>Newell</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>6.64</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16735665</Id>
+      <LeadTime>12</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Newell 323</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>1.68</SellPrice>
+      <StockOnHand>3</StockOnHand>
+      <StockOnOrder>120</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="93">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>13.4</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16743971</Id>
+      <LeadTime>21</LeadTime>
+      <MinOrderQuantity>20</MinOrderQuantity>
+      <Name>Staples Gold Paper Clips</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.98</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>50</StockOnOrder>
+      <SubCategory>Rubber Bands</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="94">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>11.77</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16746954</Id>
+      <LeadTime>17</LeadTime>
+      <MinOrderQuantity>25</MinOrderQuantity>
+      <Name>Staples Metal Binder Clips</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>2.62</SellPrice>
+      <StockOnHand>0</StockOnHand>
+      <StockOnOrder>50</StockOnOrder>
+      <SubCategory>Rubber Bands</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.15</Volume>
+    </record>
+    <record index="95">
+      <Brand>Newell</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>13.15</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16751227</Id>
+      <LeadTime>9</LeadTime>
+      <MinOrderQuantity>45</MinOrderQuantity>
+      <Name>Newell 35</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>3.28</SellPrice>
+      <StockOnHand>34</StockOnHand>
+      <StockOnOrder>2</StockOnOrder>
+      <SubCategory>Pens &amp; Art Supplies</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.14</Volume>
+    </record>
+    <record index="96">
+      <Brand>Hewlett-Packard</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>310.69</BuyPrice>
+      <Category>Technology</Category>
+      <Id>16751600</Id>
+      <LeadTime>27</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Hewlett-Packard Deskjet 5550 Color Inkjet Printer</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>115.99</SellPrice>
+      <StockOnHand>22</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Office Machines</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.9</Volume>
+    </record>
+    <record index="97">
+      <Brand>Presstex</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>21.1</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16753024</Id>
+      <LeadTime>5</LeadTime>
+      <MinOrderQuantity>40</MinOrderQuantity>
+      <Name>Presstex Flexible Ring Binders</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>4.55</SellPrice>
+      <StockOnHand>8</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.11</Volume>
+    </record>
+    <record index="98">
+      <Brand>Fellowes</Brand>
+      <BuyCurrency>PLN</BuyCurrency>
+      <BuyPrice>1054.31</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16762450</Id>
+      <LeadTime>24</LeadTime>
+      <MinOrderQuantity>10</MinOrderQuantity>
+      <Name>Fellowes PB300 Plastic Comb Binding Machine</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>387.99</SellPrice>
+      <StockOnHand>2</StockOnHand>
+      <StockOnOrder>10</StockOnOrder>
+      <SubCategory>Binders and Binder Accessories</SubCategory>
+      <Supplier>RRD</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.09</Volume>
+    </record>
+    <record index="99">
+      <Brand>Hoover</Brand>
+      <BuyCurrency>GBP</BuyCurrency>
+      <BuyPrice>150.39</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16762476</Id>
+      <LeadTime>22</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Hoover WindTunnel Plus Canister Vacuum</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>363.25</SellPrice>
+      <StockOnHand>11</StockOnHand>
+      <StockOnOrder>0</StockOnOrder>
+      <SubCategory>Appliances</SubCategory>
+      <Supplier>Office First</Supplier>
+      <TargetBatchVolume>0</TargetBatchVolume>
+      <Volume>0.32</Volume>
+    </record>
+    <record index="100">
+      <Brand>Staples</Brand>
+      <BuyCurrency>CNY</BuyCurrency>
+      <BuyPrice>34.37</BuyPrice>
+      <Category>Office Supplies</Category>
+      <Id>16769121</Id>
+      <LeadTime>16</LeadTime>
+      <MinOrderQuantity>1</MinOrderQuantity>
+      <Name>Staples 4 Outlet Surge Protector</Name>
+      <SellCurrency>USD</SellCurrency>
+      <SellPrice>8.67</SellPrice>
+      <StockOnHand>21</StockOnHand>
+      <StockOnOrder>80</StockOnOrder>
+      <SubCategory>Appliances</SubCategory>
+      <Supplier>Logipro</Supplier>
+      <TargetBatchVolume>33.1</TargetBatchVolume>
+      <Volume>0.73</Volume>
+    </record>
+  </records>
+</data>
